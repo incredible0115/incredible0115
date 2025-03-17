@@ -13,7 +13,7 @@ Interested in automation of development and deployment with Docker, Kubernetes, 
 Spearhead development and maintenance of mission-critical information extraction, analysis, and management systems. Collaborated with cross-functional team members on designated projects to devise holistic solutions to tackle complex technological infrastructure security and/or development problems.
 Ability to leverage expertise in software development and server administration to enable engineering projects from design to implementation to deployment and maintenance..
 
-- 📚- I'm currently learning more about **Zero Knowledge Proofs and Ethereum Virtual Machine(EVM)**.
+- 📚- I'm currently learning more about **AI Infrastructure**.
 
 - :computer: - Have a look at my [Portfolio](https://incredible0115.github.io) for more details.
 
@@ -22,6 +22,10 @@ Ability to leverage expertise in software development and server administration 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logoSize=auto&logo=pythonanywhere&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
