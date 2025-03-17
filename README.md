@@ -9,9 +9,9 @@
 
  I'm David Lao. 
 
-Interested in automation of development and deployment with Docker, Kubernetes, CI-CD Pipeline, Terraform and Ansible. Approved IT professional and DevOps engineer adept in infrastructure management and backend development. Capable of expertly navigating trending technologies and industry related software/tools applications with ease.
-Spearhead development and maintenance of mission-critical information extraction, analysis, and management systems. Collaborated with cross-functional team members on designated projects to devise holistic solutions to tackle complex technological infrastructure security and/or development problems.
-Ability to leverage expertise in software development and server administration to enable engineering projects from design to implementation to deployment and maintenance..
+- Interested in automation of development and deployment with Docker, Kubernetes, CI-CD Pipeline, Terraform and Ansible. Approved IT professional and DevOps engineer adept in infrastructure management and backend development. Capable of expertly navigating trending technologies and industry related software/tools applications with ease.
+- Spearhead development and maintenance of mission-critical information extraction, analysis, and management systems. Collaborated with cross-functional team members on designated projects to devise holistic solutions to tackle complex technological infrastructure security and/or development problems.
+- Ability to leverage expertise in software development and server administration to enable engineering projects from design to implementation to deployment and maintenance..
 
 - 📚- I'm currently learning more about **AI Infrastructure**.
 
