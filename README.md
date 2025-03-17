@@ -1,16 +1,17 @@
 - 👋 Hi, I’m @incredible0115
+- I am experienced DevOps Engineer.
+- 🌱 I’m currently learning new technoloy for AI.
 - 👀 I’m interested in Web app Development and Blockchain project.
-- 🌱 I’m currently learning new technoloy for Blockchain.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 ## Hi there 👋
 
- I'm Ashvin Nair. 
+ I'm David Lao. 
 
-A Full stack | Blockchain Developer, Ethereum Core Developer Apprentice and an Open Source contributor. 
-I'm currently an **Ethereum Core Developer Apprentice** at **[Ethereum](http://www.ethereum.org/)**.
-Contributing to building a decentralized web 3.0.
+Interested in automation of development and deployment with Docker, Kubernetes, CI-CD Pipeline, Terraform and Ansible. Approved IT professional and DevOps engineer adept in infrastructure management and backend development. Capable of expertly navigating trending technologies and industry related software/tools applications with ease.
+Spearhead development and maintenance of mission-critical information extraction, analysis, and management systems. Collaborated with cross-functional team members on designated projects to devise holistic solutions to tackle complex technological infrastructure security and/or development problems.
+Ability to leverage expertise in software development and server administration to enable engineering projects from design to implementation to deployment and maintenance..
 
 - 📚- I'm currently learning more about **Zero Knowledge Proofs and Ethereum Virtual Machine(EVM)**.
 
